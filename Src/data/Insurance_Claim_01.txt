@@ -1,0 +1,11 @@
+insuranceaddress|accidentcountry|accidentdate|accidenttime
+High Street 27, EX4 3LJ Exeter|UK|12-02-2023|23:47
+Baker Street 221B, NW1 6XE London|United Kingdom|03/01/2023|2:05pm
+The Shambles, YO1 7LZ York|U.K.|2023/25/12|07:13
+Royal Mile, EH1 2PB Edinburgh|Scotland, UK|11-07-22|5:29 p.m.
+Queen Street 33, CF10 2AF Cardiff|Wales, UK|01/10/2022|08:56 am
+Strand Rd, BT48 7PX Londonderry|Northern Ireland, UK|2022-09-06|12:34
+Castle Street 44, BT38 7PT Carrickfergus|N. Ireland, UK|22.08.2022|21:18
+High Street 103, BT66 8BB Lurgan|UK|2022/7/1|05:42 am
+Victoria Street 58, BT1 4PD Belfast|United Kingdom|26-06-2022|16:09
+Union Street 174, AB10 1QT Aberdeen|Scotland, UK|13/05/2022|9:30pm
