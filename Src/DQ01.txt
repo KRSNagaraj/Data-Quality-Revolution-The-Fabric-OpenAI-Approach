@@ -1,0 +1,10 @@
+conver the follwoing date to the DD-MMM-YYYY format
+
+date : 01/01/92
+convereted Date: 01-Jan-1992
+##
+Date: 05/02/24
+converted Date: 05-Feb-2024
+##
+date: 240524
+convert date: 24-May-2024
